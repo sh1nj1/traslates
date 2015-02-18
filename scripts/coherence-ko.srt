@@ -1,7 +1,7 @@
 1
 00:00:03,679 --> 00:00:07,379
 I felt like I had a lot of time.
-나 시간이 많게 느껴져.
+나 내게 시간이 아주 많은 것 같이 느꼈어.
 
 2
 00:00:07,380 --> 00:00:09,744
@@ -251,15 +251,20 @@ A little more maybe?
 00:02:06,312 --> 00:02:08,376
 See how you're slipping?
 This is...
+어떻게 자르는지 볼까?
+이건...
 
 45
 00:02:08,377 --> 00:02:10,978
 - It's... It's the bread, babe.
 - It's the two of you with the knives that...
+그건... 그건 빵이야, 자기.
+너희 둘이 칼을 가지고...
 
 46
 00:02:10,979 --> 00:02:13,011
 I have not had carbs for a week.
+나 일주일동안 바닷가재를 먹지 못했어.
 
 47
 00:02:13,012 --> 00:02:14,810
@@ -566,6 +571,8 @@ I'm just... I'm offering.
 00:04:13,046 --> 00:04:15,576
 It's echinacea, passion
 flower, a little valerian...
+그건 엔키네이시어(데이지과의 꽃),
+패션플라워, 발레리안 조금...
 
 97
 00:04:15,577 --> 00:04:17,044
@@ -596,6 +603,8 @@ That's a horse tranquilizer.
 00:04:24,378 --> 00:04:26,377
 I just thought maybe
 a celebration...
+난 단지 그냥 축하하는
+의미에서 생각했지...
 
 102
 00:04:26,378 --> 00:04:28,676
@@ -700,428 +709,576 @@ Cheese? Ketamine?
 118
 00:05:01,745 --> 00:05:03,444
 You look so good in leather.
+너 가죽옷이 잘 어울린다.
 
 119
 00:05:03,445 --> 00:05:06,210
 Jesus Christ.
+맙소사.
 
 120
 00:05:06,211 --> 00:05:09,252
 - Um...
 - I want water or something.
+음...
+나 물이나 그런거 원하는데.
 
 121
 00:05:11,946 --> 00:05:13,643
 Did you know that, um,
+그거알아, 음,
 
 122
 00:05:13,644 --> 00:05:16,177
 - Laurie is coming?
 - There you go.
+로리가 오는거?
+여기 있어.
 
 123
 00:05:16,178 --> 00:05:18,677
 No.
+아니.
 
 124
 00:05:18,678 --> 00:05:20,309
 - Laurie's coming?
 - Yeah.
+로리가 온다고?
+응.
 
 125
 00:05:20,310 --> 00:05:22,177
 Look at the smile on your face.
+네 얼굴에 웃음꽃이 피었네.
 
 126
 00:05:22,178 --> 00:05:24,978
 - It's not a smile. It's not that smile.
 - Oh, my God.
+웃는거 아니야. 그런 웃음이 아니라고.
+오, 이런.
 
 127
 00:05:24,979 --> 00:05:27,276
 - Why is she coming tonight?
 - Amir's bringing her.
+왜 걔가 오늘밤에 온데?
+아미르가 데리고 오는 거야.
 
 128
 00:05:27,277 --> 00:05:30,077
 Beats me, because
 Amir's a total jackass.
+단언컨데, 아미르는 완전히 당나귀
+같은 놈이니깐.
 
 129
 00:05:30,078 --> 00:05:31,277
 Oh.
+오.
 
 130
 00:05:31,278 --> 00:05:33,911
 You know what? Put a quarter
 into the swear jar.
+그거알아? 그런말 하면 동전을 넣어야
+되는거.
 
 131
 00:05:33,912 --> 00:05:35,811
 So, who did he tell?
+그래서, 누가 아미르가 데려온다 했는데?
 
 132
 00:05:35,812 --> 00:05:37,877
 Well, we got the...
 Yeah.
+글쎄, 우리는 받았지...
+맞아.
 
 133
 00:05:37,878 --> 00:05:40,011
 We got an e-mail about it.
 Just his plus one.
+그것에 관한 이메일을 받았어.
+아미르가 단지 한명 추가한다고.
 
 134
 00:05:40,012 --> 00:05:44,149
 Plus one and then I
 was, like, plus what?
+한명 추가하고 그리고 내가
+마치, 추가하고 뭐?
 
 135
 00:05:47,944 --> 00:05:50,243
 I need to know tonight?
+내가 오늘 알아야 하나?
 
 136
 00:05:50,244 --> 00:05:53,810
 My editor needs to know how
 to book hotels and flights.
+내 편집자가 어떻게 호텔과
+비행기편을 예약하는지 알아야 한데.
 
 137
 00:05:53,811 --> 00:05:57,547
 I gotta do it.
 Let them know.
+내가 해야 하거든.
+그들에게 알려줘야지.
 
 138
 00:05:58,345 --> 00:06:01,348
 Gotta know tonight.
+오늘밤에 알아야돼.
 
 139
 00:06:03,145 --> 00:06:05,112
 You know I-I...
 I can't...
+너 알지 나-내가...
+나 할수 없...
 
 140
 00:06:05,113 --> 00:06:06,778
 I-I just need to think about it...
+나-내가 그냥 그것에 생각할 필요가...
 
 141
 00:06:06,779 --> 00:06:08,610
 a little bit longer because...
+조금 더 많은 시간이 왜냐하면...
 
 142
 00:06:08,611 --> 00:06:10,310
 I just don't want to
 make the wrong choice.
+나는 단지 잘못된 선택을 하고
+싶지 않아서.
 
 143
 00:06:10,311 --> 00:06:11,878
 What if you came for a shorter time?
+만약 네가 더 짧은 시간에 왔다면?
 
 144
 00:06:11,879 --> 00:06:15,667
 Like a month, not the full four months.
 Just come for a month.
+말하지면 한달, 완전히 넉달이 아니라.
+단지 한달안에 왔다면.
 
 145
 00:06:15,668 --> 00:06:17,444
 It's still a very long time...
+그것도 여전히 긴 시간이지...
 
 146
 00:06:17,445 --> 00:06:19,011
 and I'm not saying no.
+그리고 난 아니라고 말하는 건 아니야.
 
 147
 00:06:19,012 --> 00:06:24,579
 Babe, if you don't say
 yes, it becomes a no.
+자기야, 예스라고 말하지 않으면,
+그건 아니라는 거야.
 
 148
 00:06:26,077 --> 00:06:28,344
 We're cold and hungry.
+우리 춥고 배고프다.
 
 149
 00:06:28,345 --> 00:06:30,309
 Hello?
+안녕?
 
 150
 00:06:30,310 --> 00:06:32,110
 - Hello.
 - Hi.
+안녕.
+하이.
 
 151
 00:06:32,111 --> 00:06:34,844
 - Amir, you look great.
 - Thank you.
+아미르, 너 좋아 보이는데.
+고마워.
 
 152
 00:06:34,845 --> 00:06:36,544
 - Hi.
 - You remember Laurie?
+하이.
+로리 기억하지?
 
 153
 00:06:36,545 --> 00:06:38,269
 Amir told me I wouldn't be...
+아미르가 말했는데, 내가
 
 154
 00:06:38,270 --> 00:06:40,677
 - overdressed, now I'm feeling...
 - No. No, no.
+너무 차려입으면 안된다고, 지금 느끼는게...
+아니, 아니, 아니야.
+
 
 155
 00:06:40,678 --> 00:06:43,978
 We're underdressed.
+우리는 대충입었어.
 
 156
 00:06:43,979 --> 00:06:45,777
 - Hi.
 - Hi.
+하이.
+하이.
 
 157
 00:06:45,778 --> 00:06:47,309
 - How are you?
 - I'm good.
+잘지내?
+응 좋아.
 
 158
 00:06:47,310 --> 00:06:49,144
 - Beth, do you remember Laurie?
 - Yes.
+베쓰, 로리 기억해?
+물론.
 
 159
 00:06:49,145 --> 00:06:51,810
 - Nice to see you.
 - You guys already said hello and...
+만나서 반가워.
+너희들 이미 인사했었지...
 
 160
 00:06:51,811 --> 00:06:53,476
 How are you?
 Good to see you.
+잘지내?
+만나서 좋다.
 
 161
 00:06:53,477 --> 00:06:55,777
 You guys want red wine?
+레드와인 좀 줄까?
 
 162
 00:06:55,778 --> 00:06:58,344
 Yes. I would love red wine.
+응. 레드와인 좋지.
 
 163
 00:06:58,345 --> 00:07:00,810
 - Lee?
 - I've been cooking. I've been cooking.
+리?
+나 요리하고 있어. 요리하고 있어.
 
 164
 00:07:00,811 --> 00:07:03,511
 - How have you been?
 - I've been good. I've been really good.
+어떻게 지냈어?
+잘지냈지. 정말 잘 지내고 있었지.
 
 165
 00:07:03,512 --> 00:07:05,577
 - You?
 - I've been great.
+너는?
+아주 잘 지내고 있었지.
 
 166
 00:07:05,578 --> 00:07:09,143
 Yeah. Life is looking very different
 from how it was a while back.
+그래. 삶이 매우 달라 보이네,
+얼마동안 전과는 말야.
 
 167
 00:07:09,144 --> 00:07:11,845
 - In a good way, so...
 - Well, cool. That's good to hear.
+좋은 의미로, 그래서...
+그러니깐, 좋아. 듣기 좋네.
 
 168
 00:07:11,846 --> 00:07:15,913
 - I would hope so. There you go.
 - Thank you.
+그러기를 바라지. 여기 받아.
+고마워.
 
 169
 00:07:16,711 --> 00:07:18,477
 Not A, C, E.
+에, 이, 스 는 아니지.
 
 170
 00:07:18,478 --> 00:07:20,110
 "Horace, listen.
+"호러스(로마 시인), 들어."
 
 171
 00:07:20,111 --> 00:07:22,810
 I'll be down at the pyramid.
 Come on down and join.
+나 피라미드 아래에 있을 거야.
+자 와서 들어봐.
 
 172
 00:07:22,811 --> 00:07:24,878
 We gotta talk about
 some deity stuff."
+우리 어떤 신들에 대해
+얘기해야 돼.
 
 173
 00:07:24,879 --> 00:07:26,977
 Does everyone else
 still not have service?
+아직까지 서비스중 아닌 사람 있어?
 
 174
 00:07:26,978 --> 00:07:29,644
 My phone is completely broken.
+내 폰은 완전히 깨졌어.
 
 175
 00:07:29,645 --> 00:07:32,911
 I'm living in the moment, but...
+내껀 조금 살아 있었지만...
 
 176
 00:07:32,912 --> 00:07:35,177
 - Nothing.
 - I got zero.
+없어.
+신호바가 안떠.
 
 177
 00:07:35,178 --> 00:07:37,910
 That's weird.
 Maybe the tower's down.
+그거 이상한데.
+아마도 기지국이 다운된건가.
 
 178
 00:07:37,911 --> 00:07:39,944
 The tower's down?
+기지국이 다운된다고?
 
 179
 00:07:39,945 --> 00:07:42,044
 I'm telling you guys...
+내가 하는 말은...
 
 180
 00:07:42,045 --> 00:07:44,010
 - It's not down.
 - That would be a big news story.
+기지국 다운은 아니야.
+그건 아마도 엄청난 뉴스가 될껄.
 
 181
 00:07:44,011 --> 00:07:47,076
 Comet. Comet.
+혜성. 혜성.
 
 182
 00:07:47,077 --> 00:07:50,077
 - Miller's Comet.
 - Yes. Thank you.
+밀러의 혜성.
+맞아. 고마워.
 
 183
 00:07:50,078 --> 00:07:54,677
 I read something this morning
 about a comet in the 1930s.
+나 오늘 아침에 1930년대에 있었던
+혜성에 관해 뭔가 읽었어.
 
 184
 00:07:54,678 --> 00:07:56,211
 It was in Finland.
+핀란드였어.
 
 185
 00:07:56,212 --> 00:07:58,043
 - Knocked out all of the...
 - I actually...
+그 모든 것을 쓰러뜨렸지...
+나 사실은...
 
 186
 00:07:58,044 --> 00:08:00,510
 the cell towers?
+그 기지국들을?
 
 187
 00:08:00,511 --> 00:08:03,877
 Actually, it was in 1923.
+사실은, 그건 1923년이었어.
 
 188
 00:08:03,878 --> 00:08:05,543
 And, yes, it was in Finland.
+그래서, 맞아, 핀란드였고.
 
 189
 00:08:05,544 --> 00:08:09,143
 - Um...
 - Thank you, Wikipedia.
+음...
+고마워, 위키피디아.
 
 190
 00:08:09,144 --> 00:08:11,910
 It was actually crazy,
 because it affected the people.
+그 이야기 사실은 완전 이상해,
+왜냐하면 혜성이 사람들에 영향을 줬거든.
 
 191
 00:08:11,911 --> 00:08:14,911
 After it passed,
 they would get lost.
+혜성이 지나가고 나서,
+사람들이 미쳤지.
 
 192
 00:08:14,912 --> 00:08:17,510
 They would end up in the wrong home.
 They would forget things.
+사람들이 다른 집에 있었던거야.
+어떤것을 잊어버리고 말이지.
 
 193
 00:08:17,511 --> 00:08:19,578
 They wouldn't really
 know where they were.
+사람들이 자신이 진짜로
+어디에 있는지 몰랐어.
 
 194
 00:08:19,579 --> 00:08:22,209
 And I remember reading
 about this one woman...
+그리고 한 여자에 대해
+읽은거 기억나는데...
 
 195
 00:08:22,210 --> 00:08:24,811
 who called the police and said,
+경찰을 불러서 말하길,
 
 196
 00:08:24,812 --> 00:08:27,670
 "The man in my house
 is not my husband."
+"내 집에 있는 이 남자는
+내 남편이 아니에요."
 
 197
 00:08:27,671 --> 00:08:29,342
 And then police came over...
+그리고 경찰이 와서...
 
 198
 00:08:29,343 --> 00:08:31,944
 and they said,
 "This is your husband,"
+말하길,
+"이사람은 당신 남편입니다."
 
 199
 00:08:31,945 --> 00:08:33,544
 And she said, "No. This
 is not my husband.
+그러니깐 여자가, "아니요. 이사람은
+내 남편이 아니에요."
 
 200
 00:08:33,545 --> 00:08:35,844
 - I killed my husband yesterday.
 - Awesome.
+내가 어제 남편을 죽였단 말이에요.
+엄청난데.
 
 201
 00:08:35,845 --> 00:08:37,544
 That's how I know it's not him."
+그러니깐 제가 이사람이 남편이 아니라고
+하는 거에요.
 
 202
 00:08:37,545 --> 00:08:40,177
 But they couldn't arrest her,
 because he was standing...
+하지만 경찰은 그 여자를 체포하지
+못했지 왜냐하면 남편이...
 
 203
 00:08:40,178 --> 00:08:41,911
 right there in front in them.
+그들 바로 앞에 서있었거든.
 
 204
 00:08:41,912 --> 00:08:43,976
 Do they have any theories of why?
+그것에 관해 왜 그런지 어떤 이론이 있는거야?
 
 205
 00:08:43,977 --> 00:08:47,209
 Think how lucky she is.
 She gets to kill him again.
+생각해봐 그 여자가 얼마나 행복한지.
+그 여자는 남편을 또 죽일수 있잖아.
 
 206
 00:08:47,210 --> 00:08:48,843
 Clearly she wants to kill this man.
+분명히 그 여자는 그 남자를 또 죽일려할거야.
 
 207
 00:08:48,844 --> 00:08:50,444
 - It's just the Finnish.
 - The Finns.
+그게 그냥 끝이야.(핀란드인이야.)
+그 핀란드인들.
 
 208
 00:08:50,445 --> 00:08:52,376
 The Finns or Finnish?
+그 핀란드인 아니면 끝났다는거야?
 
 209
 00:08:52,377 --> 00:08:54,911
 - You guys remember Halley's Comet?
 - Yes.
+너희들 핼리 혜성 기억하지?
+응.
 
 210
 00:08:54,912 --> 00:08:56,578
 I mean, it was such a big deal.
+내 말은, 그거 정말 큰 사건이었지.
 
 211
 00:08:56,579 --> 00:09:00,243
