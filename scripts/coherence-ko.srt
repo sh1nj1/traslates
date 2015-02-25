@@ -1975,7 +1975,7 @@ this big black bear...
 was up on its hind legs
 sort of mauling me.
 뒷다리로 서서 뭔가
-나를 앞발로 찢을려고 하는것 같았어. 
+나를 앞발로 찢을려고 하는것 같았어.
 
 320
 00:13:30,578 --> 00:13:33,311
@@ -2977,7 +2977,7 @@ and exploded over Earth.
 00:20:05,577 --> 00:20:08,077
 So, it didn't actually
 have physical impact.
-따라서, 그건 실제로 
+따라서, 그건 실제로
 물리적으로 충돌은 아니야.
 
 480
@@ -3440,7 +3440,7 @@ around the corner and...
 00:23:10,209 --> 00:23:12,643
 I don't know what that is
 or why you grabbed it.
-나는 저게 뭔지 또는 네가 왜 
+나는 저게 뭔지 또는 네가 왜
 가져왔는지 모른다고.
 
 553
@@ -4244,7 +4244,7 @@ It's taken from over there.
 00:29:37,777 --> 00:29:40,442
 Wait. When someone knocked
 on the door, were you there?
-잠시만. 누군가 저 문을 두드릴때, 
+잠시만. 누군가 저 문을 두드릴때,
 너 저기 있었어?
 
 686
@@ -4521,7 +4521,7 @@ the one who wanted to go.
 00:31:54,443 --> 00:31:57,309
 That's when I thought
 they might have a phone.
-그건 내가 그들이 전화가 될거라고 
+그건 내가 그들이 전화가 될거라고
 생각했었을때지.
 
 732
@@ -4937,688 +4937,905 @@ Please be careful, babe.
 801
 00:36:07,410 --> 00:36:09,142
 Okay.
+알았어.
 
 802
 00:36:09,143 --> 00:36:10,975
 Should we wake up Lee?
+우리 리를 깨워야 할까?
 
 803
 00:36:10,976 --> 00:36:15,043
 How could she go to sleep
 in the middle of all this?
+리는 어떻게 이런 모든 것 속에서
+잠을 자러 갈 수 가 있었지?
 
 804
 00:36:15,710 --> 00:36:18,745
 I'm sorry.
 I'm sorry, babe.
+미안.
+미안, 자기야.
 
 805
 00:36:19,543 --> 00:36:21,508
 Jesus.
 Calm down, everybody.
+젠장.
+모두 진정하라고.
 
 806
 00:36:21,509 --> 00:36:23,041
 Oh, baby.
+오, 자기야.
 
 807
 00:36:23,042 --> 00:36:25,983
 I was gonna mail it back to him.
+나는 그에게 다시 붙일려고 했었어.
 
 808
 00:36:30,777 --> 00:36:32,375
 What is it?
+그게 뭔데?
 
 809
 00:36:32,376 --> 00:36:36,075
 "Gravitation: An Introduction
 To Current Research."
+"중력: 현재의 연구에 대한 소개"
 
 810
 00:36:36,076 --> 00:36:37,742
 That's not gonna apply.
+그건 도움이 안될 거야.
 
 811
 00:36:37,743 --> 00:36:40,708
 So, is his brother like a
 scientist, or something?
+그래서, 그의 동생이 과학자 같은거야?
 
 812
 00:36:40,709 --> 00:36:42,209
 He's just a really trippy guy.
+그는 그냥 정말로 이상한 남자야.
 
 813
 00:36:42,210 --> 00:36:43,676
 He's really, really smart,
 a real egghead.
+그는 정말로, 정말로 똑똑해.
+진짜로 샌님이라니깐.
 
 814
 00:36:43,677 --> 00:36:47,242
 But it's hard to... It's
 like he thinks out loud.
+하지만 설명하기 쉽지 않아...
+그건 마치 그가 크게 이해하는것 같아.
 
 815
 00:36:47,243 --> 00:36:50,642
 He's a teacher at U.C.S.D.
 What do you got, Hugh?
+그는 U.C.S.D 에서 선생님이야.
+그게 뭐야, 휴?
 
 816
 00:36:50,643 --> 00:36:52,808
 This is...
+이건...
 
 817
 00:36:52,809 --> 00:36:56,842
 These are Brian's notes from
 his lesson plan for his class.
+이건 자기 반의 교수계획에서 나온 브라이언의 노트야.
 
 818
 00:36:56,843 --> 00:37:00,476
 "Decoherence and Schrödinger's
 Cat." He talked about this.
+"불일치와 슈뢰딩거의 고양이" 그는
+이것에 관해 얘기했었어.
 
 819
 00:37:00,477 --> 00:37:02,456
 Do you guys know what
 Schrödinger's cat is?
+너희들 슈뢰딩거의 고양이가 뭔줄알아?
 
 820
 00:37:02,482 --> 00:37:04,009
 I'm allergic.
+나는 알러지가 있어.
 
 821
 00:37:04,010 --> 00:37:07,442
 So, it's a, um...
 It's a thought experiment.
+그래, 그건, 음...
+그건 사고실험이야.
 
 822
 00:37:07,443 --> 00:37:09,209
 There's a...
 There's a cat in a box...
+여기에...
+상자에 고양이가 있어...
 
 823
 00:37:09,210 --> 00:37:12,208
 that has, like, a 50/50
 chance of living...
+50/50으로 생존 가능성이 있는것 말야...
 
 824
 00:37:12,209 --> 00:37:13,809
 because there's a vial of poison...
+왜냐하면 독이든 병이 있거든...
 
 825
 00:37:13,810 --> 00:37:15,408
 that's also in the box.
+그것도 상자안에 같이 있어.
 
 826
 00:37:15,409 --> 00:37:18,974
 So, regular physics would say
 that it's one or the other.
+그래서, 일반 물리학에서는 그건 이것
+아니면 저것이지.
 
 827
 00:37:18,975 --> 00:37:20,476
 That the cat is
 either alive or dead.
+그 고양이가 살아있거나 죽었거나.
 
 828
 00:37:20,477 --> 00:37:23,308
 But Brian would argue
 that quantum physics says...
+하지만 브라이언이 양자 물리학에서 말하길...
 
 829
 00:37:23,309 --> 00:37:26,274
 that both realities
 exist simultaneously.
+그 두 실체는 동시적으로 존재한다
+는 것에 대해 논의하려고 해.
 
 830
 00:37:26,275 --> 00:37:29,809
 It's only when you open the
 box that they collapse...
+그건 단지 네가 상자를 열었을때...
 
 831
 00:37:29,810 --> 00:37:31,909
 into a single event.
 Right?
+그 상태가 하나의 사건으로
+붕괴되어 진다는거야. 맞지?
 
 832
 00:37:31,910 --> 00:37:35,042
 So, listen to this.
 This is what he's written.
+그래서, 이걸 들어봐.
+이게 내 동생이 쓴거야.
 
 833
 00:37:35,043 --> 00:37:36,742
 "There is another theory:
+"다른 이론이 존재한다:
 
 834
 00:37:36,743 --> 00:37:38,809
 that two states
 continue to exist...
+그 두 상태들은 계속 존재한다...
 
 835
 00:37:38,810 --> 00:37:40,976
 separate and decoherent
 from each other,
+분리되어 서로 불일치되어,
 
 836
 00:37:40,977 --> 00:37:43,607
 each creating a new
 branch of reality...
+가각은 실체의 새로운 지점을
+만들어내고...
 
 837
 00:37:43,608 --> 00:37:45,241
 based on the two outcomes.
+그거은 두가지 결과에서 비롯된다.
 
 838
 00:37:45,242 --> 00:37:48,274
 Quantum decoherence ensures
 that the different outcomes...
+양자 불일치는 그 서로 다른 결과가...
 
 839
 00:37:48,275 --> 00:37:51,076
 have no interaction
 with each other."
+서로 각각에 아무 상호작용이
+없음을 보증한다."
 
 840
 00:37:51,077 --> 00:37:53,341
 - Hold on.
 - Well, that explains it.
+잠깐만.
+글세, 그말이 이걸 설명하네.
 
 841
 00:37:53,342 --> 00:37:58,008
 So we're in the box.
 We're the cat.
+그러니까 우리는 상자안에 있고,
+우리가 그 고양이야.
 
 842
 00:37:58,009 --> 00:38:00,809
 We're both alive and dead.
+우리는 모두 살아 있거나 죽었거나 둘다지.
 
 843
 00:38:00,810 --> 00:38:05,842
 So, there are... There are two
 separate realities, and...
+그러니깐, 두가지 분리된 현실이 존재한다
+는 거고...
 
 844
 00:38:05,843 --> 00:38:08,808
 presumably until the comet passes.
+예상컨데, 그 혜성이 지나갈때까지 말야.
 
 845
 00:38:08,809 --> 00:38:10,942
 - Until the comet passes?
 - Okay.
+혜성이 지나갈때까지?
+맞아.
 
 846
 00:38:10,943 --> 00:38:14,842
 Or decoherence is maintained and
 those two separate realities...
+또는 불일치가 유지되고 그 두가지 분리된
+현실들은...
 
 847
 00:38:14,843 --> 00:38:16,809
 will remain separate
 once the comet passes.
+혜성이 지나가더라도 분리된채 남게 될거야.
 
 848
 00:38:16,810 --> 00:38:18,309
 Everybody will be fine.
+모두 무사할거라고.
 
 849
 00:38:18,310 --> 00:38:20,309
 Decoherence keeps us separate.
+불일치는 우리를 분리된 상태로 지속되게하지.
 
 850
 00:38:20,310 --> 00:38:21,976
 Right.
+맞아.
 
 851
 00:38:21,977 --> 00:38:25,742
 Why are the other us contacting
 us then in this way?
+이 방식이라면, 왜 다른 우리는 우리를
+접촉하려는 거야?
 
 852
 00:38:25,743 --> 00:38:27,275
 They didn't want to.
+그들은 원하지 않았어.
 
 853
 00:38:27,276 --> 00:38:29,575
 Who got the pictures?
 Who... The numbers?
+누가 그 사진을 가져왔지?
+누가... 그 숫자들을?
 
 854
 00:38:29,576 --> 00:38:33,177
 We started it when we went
 to find a house with lights.
+우리는 불빛이있는 집을 찾으러 갔을때
+그것을 시작했어.
 
 855
 00:38:33,178 --> 00:38:35,709
 Yeah, maybe they didn't
 mean the box for us.
+그래, 아마도 그들을 우리를 위해
+그 상자를 둔게 아니야.
 
 856
 00:38:35,710 --> 00:38:38,275
 The box isn't for us.
+그 상자는 우리를 위한게 아니지.
 
 857
 00:38:38,276 --> 00:38:42,143
 What if we've already
 interacted with ourselves?
+만약 우리가 이미 우리 자신과
+교류했다면 어떻게 되는거지?
 
 858
 00:38:42,144 --> 00:38:44,876
 So, we're collapsing on
 ourselves right now.
+그래서, 우리가 지금 당장 우리
+자신으로 붕괴되는 중이다?!
 
 859
 00:38:44,877 --> 00:38:47,608
 Not if we stay separate
 from each other.
+우리가 서로 각각으로 부터 분리
+되어 있지 않고 있다면?
 
 860
 00:38:47,609 --> 00:38:49,909
 It's already too late.
 We've already been there.
+그건 이미 너무 늦었어.
+우리는 이미 그곳에 있는걸.
 
 861
 00:38:49,910 --> 00:38:53,143
 Do you remember that
 movie Sliding Doors?
+너 그 슬라이딩 도어즈라는 영화 기억해?
 
 862
 00:38:53,144 --> 00:38:56,242
 Where just a fraction of a second...
+단지 매우작은 시간에...
 
 863
 00:38:56,243 --> 00:38:58,307
 there could be two realities?
+그곳에 두가지 현실이 존재할 수 있는 거야?
 
 864
 00:38:58,308 --> 00:39:01,275
 In one, she runs and tries to get
 on the subway and she can't.
+하나의 현실에서 그녀가 달려서 지하철을 탈려고
+했는데, 탈 수 없었지.
 
 865
 00:39:01,276 --> 00:39:03,010
 She gets her hand stuck in the door.
+그녀는 그녀의 손을 문에 끼었지.
 
 866
 00:39:03,011 --> 00:39:04,674
 In the other one, she gets
 through and there's two...
+다른 현실에서는 그녀는 문을 통과하고
+그곳에 두가지...
 
 867
 00:39:04,675 --> 00:39:07,143
 If we're collapsing right now,
 I'm gonna collapse on them.
+만약 우리가 지금 당장 붕괴된다면,
+나는 그들에게 지금 그들에게 붕괴할거야.
 
 868
 00:39:07,144 --> 00:39:08,875
 I'm not gonna wait for
 them to collapse on us.
+나는 그들이 나에게 붕괴되도록 기다리지 않을거야.
 
 869
 00:39:08,876 --> 00:39:11,143
 Whoa, whoa, Mike.
+워, 워, 마이크.
 
 870
 00:39:11,144 --> 00:39:13,108
 I'll go over there and
 I'll just kill 'em.
+나는 저기 갈거고 그들을 다 죽일거야.
 
 871
 00:39:13,109 --> 00:39:15,841
 - What?
 - Half-kidding.
+뭐라고?
+반농담.
 
 872
 00:39:15,842 --> 00:39:17,308
 - Mike, let's just...
 - I love my fucking life.
+마이크, 우리 그냥...
+나는 내 빌어먹을 삶을 사랑해.
 
 873
 00:39:17,309 --> 00:39:19,842
 Let's be smart first before
 we do anything stupid,
+우리 먼저 똑똑해지자. 우리가 뭔가
+바보 같은 짓을 하기 전에 말야.
 
 874
 00:39:19,843 --> 00:39:21,342
 and let's stick with
 that we do know.
+그리고 우리가 아는 것에 머물러 있잖고.
 
 875
 00:39:21,343 --> 00:39:24,241
 And what's smart? Just
 sitting here? Doing nothing?
+뭐가 똑똑한거야? 그냥 여기
+앉아 있는거? 아무것도 하지 않고?
 
 876
 00:39:24,242 --> 00:39:26,643
 What we do know is that
 we took this box. Right?
+우리가 아는 건 우리가 이
+상자를 가져왔다는 거야. 맞지?
 
 877
 00:39:26,644 --> 00:39:29,140
 So, our first act should
 be to return it. Yes?
+그래서, 우리의 첫번째 행동은
+그걸 도로 가져다 놓는거야. 맞아?
 
 878
 00:39:29,141 --> 00:39:31,108
 Fuck that. No. We're not
 returning that box.
+웃기지마. 아니. 우리는
+그 상자를 돌려주지 않을 거야.
 
 879
 00:39:31,109 --> 00:39:33,043
 I don't trust that house.
 That stays here.
+나는 저 집을 신뢰하지 않아.
+저 상자는 그냥 여기 둘거야.
 
 880
 00:39:33,044 --> 00:39:35,241
 Wait, wait, wait.
 What's got you so freaked out?
+잠깐, 잠깐, 잠깐.
+뭐가 너를 그렇게 겁나게 만든거야?
 
 881
 00:39:35,242 --> 00:39:37,975
 - Stupid, stupid question.
 - You're right.
+멍청한, 멍청한 질문이야.
+네가 맞아.
 
 882
 00:39:37,976 --> 00:39:40,309
 We're not at war with the
 house down the street.
+우리는 거리 아래에 있는 집이랑
+전쟁을 하고 있는게 아니야.
 
 883
 00:39:40,310 --> 00:39:43,541
 They might literally be
 the same people as us.
+그들은 말그대로 우리랑 같은
+사람들일거야.
 
 884
 00:39:43,542 --> 00:39:45,474
 Mike's saying come over
 here and let's kill us.
+마이크가 말하는건 이리와서
+우리 우리를 죽이자라고 말하는거야.
 
 885
 00:39:45,475 --> 00:39:50,541
 That's right. If you do it first,
 you know who you're gonna fight?
+그게 맞아. 네가 먼저 그걸 하면,
+너는 누구와 먼저 싸워야 될지 알걸?
 
 886
 00:39:50,542 --> 00:39:52,042
 - Mike.
 - You.
+마이크.
+너.
 
 887
 00:39:52,043 --> 00:39:54,745
 You're gonna run into you.
+너는 너랑 싸우러 가려고 하는거야.
 
 888
 00:39:55,543 --> 00:39:57,848
 Who's gonna win that?
+그싸움에서 누가 이길것 같아?
 
 889
 00:39:58,233 --> 00:40:00,810
 Who did you see in the
 window when you went there?
+그곳에 갔을때 창문으로 누굴 봤어?
 
 890
 00:40:00,811 --> 00:40:02,709
 - Did you see yourself?
 - I did not see myself.
+네 자신을 본거야?
+나는 내 자신을 보지 않았어.
 
 891
 00:40:02,710 --> 00:40:04,274
 - I told you who I saw.
 - Okay, okay.
+나는 누굴 봤는지 얘기했어.
+알았어, 알았어.
 
 892
 00:40:04,275 --> 00:40:08,942
 But what if, in that over there,
 that house, what if I'm drinking?
+하지만 이러면 어떨까, 그곳에서,
+그 집에서, 내가 술을 먹고 있다면?
 
 893
 00:40:08,943 --> 00:40:12,193
 I mean, just think
 about that for a sec.
+내말은, 그냥 잠깐 생각해 보라는 거야.
 
 894
 00:40:13,777 --> 00:40:15,808
 That's a fucked-up Michael.
+그건 취해버린 마이클이겠지.
 
 895
 00:40:15,809 --> 00:40:18,009
 Oh, God.
+오, 신이여.
 
 896
 00:40:18,010 --> 00:40:19,808
 I'm not gonna wait for a
 fucking drunk Mike...
+나는 빌어먹을 취한 마이크를
+기다리지 않을 거야...
 
 897
 00:40:19,809 --> 00:40:21,307
 to come over here and kill me.
+이리와서 나를 죽일 마이크 말야.
 
 898
 00:40:21,308 --> 00:40:25,245
 And kill you and kill
 you and kill you.
+그리고 너를 죽이고 너를 죽이고 너를 죽이지.
 
 899
 00:40:27,043 --> 00:40:29,841
 I'm not waiting for that.
+나는 그걸 기다리지 않을거야.
 
 900
 00:40:29,842 --> 00:40:32,275
 Wait, wait, wait a minute.
+잠깐, 잠깐, 잠깐만.
 
 901
 00:40:32,276 --> 00:40:34,208
 Who did you see when you were there?
+네가 그곳에 있을때 누굴 보았지?
 
 902
 00:40:34,209 --> 00:40:39,742
 I saw Amir, I saw Hugh,
 and I saw Lee.
+나는 아미르, 휴 그리고 리를 보았지.
 
 903
 00:40:39,743 --> 00:40:41,608
 Okay. Lee's not here right now.
+좋아. 리는 지금 여기 없어.
 
 904
 00:40:41,609 --> 00:40:43,876
 - She's taking a nap.
 - What do you mean, she's taking a nap?
+그녀는 잠깐 잠을 자고 있지.
+무슨 의미야? 그녀가 잠깐 잠을 자고 있다고?
 
 905
 00:40:43,877 --> 00:40:46,808
 - So, it's different, then.
 - Something's off. It's not the same.
+따라서, 그건 다른거야, 그때.
+뭔가 꺼졌어. 그건 같지 않아.
 
 906
 00:40:46,809 --> 00:40:48,308
 In this reality, Lee's napping.
+여기 현실에서, 리는 잠깐 자고 있고.
 
 907
 00:40:48,309 --> 00:40:51,107
 Maybe in that reality,
 you're napping?
+아마도 저기 현실에서는, 네가 자고 있겠지?
 
 908
 00:40:51,108 --> 00:40:52,608
 So, that's why Mike didn't see her.
+따라서, 그게 왜 마이크가 그녀를 보지 못한 이유야.
 
 909
 00:40:52,609 --> 00:40:57,141
 Right, and if Beth is
 napping in that reality...
+맞아, 그리고 베쓰가 그 현실에서
+잠깐 자고 있다면...
 
 910
 00:40:57,142 --> 00:40:58,776
 they don't have the book.
+그들은 그 책을 가지고 있지 않아.
 
 911
 00:40:58,777 --> 00:41:00,308
 - They don't.
 - Right.
+그들은 책이 없어.
+맞아.
 
 912
 00:41:00,309 --> 00:41:01,976
 The other house doesn't
 have the book.
+그 다른 집은 책이 없어.
 
 913
 00:41:01,977 --> 00:41:03,541
 And if they don't have the book,
+만약 그들이 책이 없다면,
 
 914
 00:41:03,542 --> 00:41:07,307
 they're not having this
 conversation right now.
+그들은 이런 이야기를 지금 당장 하지 않을 거야.
 
 915
 00:41:07,308 --> 00:41:10,041
 So, then if we get the
 book from the car...
+따라서, 그땐 우리가 그 차에서 책을 가져오면...
 
 916
 00:41:10,042 --> 00:41:12,242
 then we can avoid all this.
+그땐 우리가 이 모든걸 피해갈 수 있어.
 
 917
 00:41:12,243 --> 00:41:16,820
 - Take it? Take their book?
 - It's a possibility.
+가져온다고? 그들의 책을 가져온다고?
+그거 가능성이 있어.
 
 918
 00:41:16,821 --> 00:41:19,608
 - Hugh, give me your keys.
 - No, no, no. Wait, wait, wait.
+휴, 네 열쇠를 줘.
+아니, 아니, 아니. 잠깐, 잠깐, 잠깐.
 
 919
 00:41:19,609 --> 00:41:22,313
 We're not supposed to
 mess with any of this.
+우리는 이것에 대해 어떤것도
+뒤죽박죽으로 만들지 않도록 되어있어.
 
 920
 00:41:22,314 --> 00:41:23,909
 Why would we even risk this?
+왜 우리가 이것에 대해 위험을 감수해야 하는데?
 
 921
 00:41:23,910 --> 00:41:26,407
 - He's talking about going over and fighting them.
 - But why make it worse?
+그는 그곳에 가서 그들과 싸우는 것을 얘기하고 있어.
+하지만 왜 상황을 더 나쁘게 만들려는 건데?
 
 922
 00:41:26,408 --> 00:41:28,708
 Because then I don't have to
 go over there and kill them.
+왜냐하면 그땐 내가 그곳에 가면 안되고
+그들을 죽이면 안되기 때문이야.
 
 923
 00:41:28,709 --> 00:41:30,242
 Just give me the keys.
+그 열쇠나 줘.
 
 924
 00:41:30,243 --> 00:41:33,375
 No. I don't think that
 we should do anything.
+아니. 나는 우리가 뭔가를 하면 안된다고 생각해.
 
 925
 00:41:33,376 --> 00:41:36,784
 And you are not taking my keys.
+그리고 나는 열쇠를 주지 않을 거야.
 
 926
 00:41:42,577 --> 00:41:45,477
 Where you going, Mike?
+어디가는데, 마이크?
 
 927
 00:41:45,478 --> 00:41:50,575
 How do we know it's exactly us?
 What if it's just externals? What if...
+우리가 어떻게 정확히 그들이 우리라고 알 수 있지?
+만약에 그것이 그냥 외부의 것이라면? 만약에...
 
 928
 00:41:50,576 --> 00:41:52,242
 - The dark side of us.
 - Yeah.
+우리의 어두운 부분의 일부라면.
+그래.
 
 929
 00:41:52,243 --> 00:41:55,675
 It's us, you guys. You mean,
 the not friendly versions?
+그건 우리야, 너희들이라고. 네 말은,
+그 우호적이지 않은 버전으로 말야?
 
 930
 00:41:55,676 --> 00:41:59,842
 Well, if it's us, then this
 could be... Is it a good thing?
+글쎄, 만약 그들이 우리라면, 그땐
+이럴 수... 그게 좋은 걸까?
 
 931
 00:41:59,843 --> 00:42:02,141
 It sounds like it would
 be a way to reach...
+그 말은 그게 우리가 닿을 수 있는...
 
 932
 00:42:02,142 --> 00:42:03,841
 higher consciousness,
 if we want to...
+보다 높은 의식의 단계인것 같네,
+만약 우리가...
 
 933
 00:42:03,842 --> 00:42:05,675
 Like an acceptance of ourselves?
+우리 자신을 수용하는 것 같은 것을
+원한다면 말야.
 
 934
 00:42:05,676 --> 00:42:08,742
 Well, yeah. We always talk about meeting
 ourselves and finding ourselves,
+글쎄, 그래. 우리는 항상 우리 자신을 만나고
+우리 자신을 찾는 것에 관해서 말했지.
 
 935
 00:42:08,743 --> 00:42:10,208
 and here we have an opportunity...
+그리거 이제 그 기회가 여기에...
 
 936
 00:42:10,209 --> 00:42:12,809
 to actually physically
 find ourselves.
+실제로 물리적으로 우리 자신을 찾을 수
+있는 기회가 여기에 있어.
 
 937
 00:42:12,810 --> 00:42:14,341
 That's a lot of pressure.
+그거 꽤 큰 압력인데.
 
 938
 00:42:14,342 --> 00:42:17,108
 - Look who's joined us.
 - Hi, everybody.
+여기에 누가 온지 봐.
+하이, 모두들.
 
 939
 00:42:17,109 --> 00:42:19,240
 How are you, honey?
 Okay.
+좀 어때, 자기?
+괜잖아.
 
 940
 00:42:19,241 --> 00:42:20,942
 Welcome back to your
 own dinner party.
+네 자신의 저녁 파티에 돌아온걸 환영해.
 
 941
 00:42:20,943 --> 00:42:23,108
 Yeah. How's my dinner party going?
+그래. 내 저녁 파티는 어떻게 돼 가고 있어?
 
 942
 00:42:23,109 --> 00:42:25,776
 Super missed you.
 It's going.
+네가 엄청 그리웠지.
+진행되고 있어.
 
 943
 00:42:25,777 --> 00:42:27,274
 I have an idea.
+내게 생각이 있어.
 
 944
 00:42:27,275 --> 00:42:29,341
 I have an idea that
 will prevent them...
+내게 그들을 막을 방법이 있어.
 
 945
 00:42:29,342 --> 00:42:31,342
 from getting the book from the car.
+그들이 차에서 책을 가져오는걸 막는 방법.
 
 946
 00:42:31,343 --> 00:42:33,208
 What are you talking about, man?
+무슨 얘기를 하고 있는 거야?
 
 947
 00:42:33,209 --> 00:42:36,040
 I'm gonna go to that house,
 and I'm gonna blackmail myself.
+
 
 948
 00:42:36,041 --> 00:42:38,142
