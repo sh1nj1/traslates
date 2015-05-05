@@ -331,7 +331,7 @@ Hi.
 57
 00:02:33,745 --> 00:02:36,010
 Nice to see you.
-반갑다.
+반갑워.
 
 58
 00:02:36,011 --> 00:02:38,310
@@ -404,7 +404,7 @@ they're talking about the comet.
 00:02:59,777 --> 00:03:01,311
 - Yeah.
 - The Miller's Comet.
-응.
+그래.
 밀러의 혜성.
 
 70
@@ -545,6 +545,8 @@ remedy concoction.
 00:04:03,811 --> 00:04:06,510
 - It's pretty s... It's very safe, I think.
 - Do you want a needle for that?
+이건 아주... 매우 안전하다고 생각해.
+그거 맞기위해 주사기 필요해?
 
 93
 00:04:06,511 --> 00:04:09,011
@@ -782,13 +784,13 @@ Oh.
 00:05:31,278 --> 00:05:33,911
 You know what? Put a quarter
 into the swear jar.
-그거알아? 그런말 하면 동전을 넣어야
-되는거.
+그거알아? 그런 나쁜말 하면 맹세항아리에 
+동전을 넣어야 되는거.
 
 131
 00:05:33,912 --> 00:05:35,811
 So, who did he tell?
-그래서, 누가 아미르가 데려온다 했는데?
+그래서, 아미르가 데려온다고 누가 말했는데?
 
 132
 00:05:35,812 --> 00:05:37,877
@@ -1313,7 +1315,7 @@ Have you guys met her sister?
 There's a picture of her right
 over there on the mantel, but...
 저기 그녀의 사진있어. 바로 저기
-벽나로 위에, 하지만...
+벽난로 위에, 하지만...
 
 216
 00:09:11,679 --> 00:09:14,143
@@ -1332,7 +1334,7 @@ over there on the mantel, but...
 218
 00:09:15,944 --> 00:09:17,644
 It's the door to nowhere.
-그건 어디도 연결된 문이 아니야.
+그건 특별히 어디로 연결된 문이 아니야.
 
 219
 00:09:17,645 --> 00:09:19,478
@@ -1434,7 +1436,7 @@ all these stories.
 234
 00:09:50,310 --> 00:09:52,110
 We do that when we get together.
-우기 같이 있을때 하게되거든.
+우리 같이 있을때 하게되거든.
 
 235
 00:09:52,111 --> 00:09:54,276
@@ -1598,7 +1600,7 @@ What character did you play?
 00:10:53,112 --> 00:10:56,710
 - Joe.
 - Did you have different hair, or something?
-조.
+죠.
 너 다른 머리 했었거나 그런거 아냐?
 
 261
@@ -2414,6 +2416,7 @@ off in the whole neighborhood.
 388
 00:16:22,044 --> 00:16:24,842
 I decided this is where mine goes.
+나 내걸로 이것으로 정했어.
 
 389
 00:16:24,843 --> 00:16:26,710
@@ -3824,7 +3827,7 @@ We've got two, one, one.
 614
 00:26:05,211 --> 00:26:07,710
 That's five.
-모두 다섯개야.
+그건 오야.
 
 615
 00:26:07,711 --> 00:26:10,743
@@ -9986,7 +9989,7 @@ You okay?
 01:19:11,440 --> 01:19:14,740
 - I just got this. I just got this.
 - I'm sorry.
-나 방금 이거 찾았어. 나 방금 이것 찾았어.
+이거 산지 얼마안됐다고. 산지 얼마안된거라고.
 미안해.
 
 1622
@@ -10133,7 +10136,7 @@ of the comet out there.
 01:20:57,474 --> 01:21:00,540
 That's the door to nowhere.
 Don't you know?
-그건 아무곳도 연결되지 않는 문인데.
+그건 특별히 어디로 연결되지 않는 문인데.
 몰랐어?
 
 1645
